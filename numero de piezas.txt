@@ -1,0 +1,6 @@
+Acople engranaje x4
+Base motor x4
+Cubierta frontal x4
+Eslabon mecanismo ala x16
+Eslabon movimiento x4
+Pin x4
